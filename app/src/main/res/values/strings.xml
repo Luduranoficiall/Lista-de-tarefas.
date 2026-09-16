@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="search_placeholder">Buscar por título ou #ID…</string>
+    <string name="search_by_id_title">Buscar Tarefa por ID</string>
+    <string name="search_by_id_hint">Digite o ID da tarefa (ex: 1)</string>
+    <string name="add_task_title">Nova Tarefa</string>
+    <string name="edit_task_title">Editar Tarefa</string>
+    <string name="task_title_label">Título da Tarefa</string>
+    <string name="task_description_label">Descrição (opcional)</string>
+    <string name="task_priority_label">Prioridade</string>
+    <string name="task_category_label">Categoria</string>
+    <string name="save_button">Salvar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="delete_button">Excluir</string>
+    <string name="confirm_delete_title">Excluir Tarefa?</string>
+    <string name="confirm_delete_msg">Tem certeza de que deseja remover esta tarefa definitivamente?</string>
+    <string name="empty_tasks_title">Nenhuma tarefa encontrada</string>
+    <string name="empty_tasks_subtitle">Toque no botão + para adicionar a sua primeira tarefa do dia!</string>
+    <string name="task_deleted_snackbar">Tarefa removida com sucesso</string>
+    <string name="undo">Desfazer</string>
+</resources>

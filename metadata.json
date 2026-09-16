@@ -1,0 +1,7 @@
+{
+  "name": "Lista de Tarefas",
+  "description": "Aplicativo completo de lista de tarefas diárias com operações CRUD (criar, listar, buscar por ID, atualizar e remover tarefas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
